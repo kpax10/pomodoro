@@ -1,4 +1,3 @@
-from io import text_encoding
 from tkinter import *
 import math
 
